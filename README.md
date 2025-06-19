@@ -14,15 +14,12 @@ The Food Ingredients Analyzer uses artificial intelligence to:
 
 ### Option 1: Download APK (Recommended)
 1. **Download from GitHub Releases**:
-   - Go to [Releases](../../releases) page
+   - Go to [Releases](https://github.com/kushalmukherjee20/food-ingredients-analyzer/releases/tag/v1.0.0) page
    - Download the latest `food-analyzer-latest.apk`
-   - Or download directly: [Latest APK](../../releases/latest/download/food-analyzer-latest.apk)
+   - Or download directly: [Latest APK](https://github.com/kushalmukherjee20/food-ingredients-analyzer/releases/download/v1.0.0/food-analyzer-latest.apk)
 
-2. **Alternative: Direct Repository Download**:
-   - Download [food-analyzer-latest.apk](./food-analyzer-latest.apk) from this repository
-   - Direct link: [food-analyzer-latest.apk](./food-analyzer-latest.apk)
 
-3. **Install and Setup**:
+2. **Install and Setup**:
    - Install APK on your Android device
    - Open the app and configure your API keys
    - Create your health profile
